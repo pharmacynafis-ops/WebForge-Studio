@@ -2,5 +2,6 @@
   "version": "1.0.12",
   "type": "Beta",
   "updated_at": "2026-5-24",
-  "changelog": "ch_1.0.12.log"
+  "changelog": "ch_1.0.12.log",
+  "downloadUrl": "https://github.com/pharmacynafis-ops/WebForge-Studio/releases/download/v1.0.12-Beta/WebForgeStudioInstaller-1.0.12-Beta.exe"
 }
