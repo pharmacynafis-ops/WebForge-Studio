@@ -1,0 +1,2 @@
+current_version=1.0.12
+old_version=0.0.0
